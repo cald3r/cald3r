@@ -4,5 +4,6 @@
 - 💞️ I’m not looking to collaborate on anything at the moment
 - 📫 How to reach me - here
 - 😄 Pronouns: he/him
-
-I am Calder, I am very new to GitHub.
+<h3 align='center'> About Me </h3>
+<p align='center'>I am Calder, and I am very new to GitHub. I like to play video games and edit videos and photos as hobbies. I enjoy messing around with graphic design and multimedia tools.</p>
+<
