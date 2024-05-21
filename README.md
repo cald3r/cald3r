@@ -18,4 +18,4 @@
 <h3 align='center'> Contact Me </h3>
 <h5>Email</h5>
 <p>calderrdoak53@gbstu.org</p>
-<a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true">Linkden</a>
+<a href="https://www.linkedin.com/in/vault-boy-from-2a00422b5?trk=people-guest_people_search-card">Linkedin</a>
