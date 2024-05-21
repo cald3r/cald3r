@@ -6,7 +6,7 @@
 	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=cald3r&show_icons=true&count_private=true"/>
 	   </a>
 	   <a href="https://github.com/cald3r/github-readme-stats">
-	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cald3re&layout=compact"/>
+	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cald3r&layout=compact"/>
 	   </a>
 		<hr/>
 <ul><h3>I like</h3>
