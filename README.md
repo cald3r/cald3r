@@ -5,5 +5,5 @@
 - 📫 How to reach me - here
 - 😄 Pronouns: he/him
 <h3 align='center'> About Me </h3>
-<p align='center'>I am Calder, and I am very new to GitHub. I like to play video games and edit videos and photos as hobbies. I enjoy messing around with graphic design and multimedia tools.</p>
+<p align='center' color='green'>I am Calder, and I am very new to GitHub. I like to play video games and edit videos and photos as hobbies. I enjoy messing around with graphic design and multimedia tools.</p>
 <
