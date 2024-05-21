@@ -22,3 +22,7 @@
 <p>calderrdoak53@gbstu.org</p>
 <a href="https://www.linkedin.com/in/vault-boy-from-2a00422b5?trk=people-guest_people_search-card">Linkedin</a> <br/> <br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">YouTube Channel</a>
+<hr/>
+<h3 align='center'>Professional Summary</h3>
+<p>I do not have any job experience at the moment, as I am focusing on schoolwork and education first I may get a summer job or work for some money when I have free time.</p>
+<hr/>
