@@ -15,4 +15,6 @@
 <li>Hanging out with family</li>
 </ul>
 </p>
-
+<h3 align='center'> Contact Me </h3>
+<h5>Email</h5>
+<p>calderrdoak53@gbstu.org</p>
