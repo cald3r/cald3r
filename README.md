@@ -9,7 +9,10 @@
 	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/>
 	   </a>
 <ul>I like
-<li>Things</li>
-<li> stuff </li>
+<li>Video Games</li>
+<li>Watching Football</li>
+<li>Video and Photo Editing</li>
+<li>Hanging out with family</li>
 </ul>
 </p>
+
