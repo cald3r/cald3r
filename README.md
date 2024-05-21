@@ -8,6 +8,7 @@
 	   <a href="https://github.com/cald3r/github-readme-stats">
 	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/>
 	   </a>
+		<hr/>
 <ul><h3>I like</h3>
 <li>Video Games</li>
 <li>Watching Football</li>
@@ -15,6 +16,7 @@
 <li>Hanging out with family</li>
 </ul>
 </p>
+<hr/>
 <h3 align='center'> Contact Me </h3>
 <h5>Email</h5>
 <p>calderrdoak53@gbstu.org</p>
