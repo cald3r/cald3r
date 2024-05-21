@@ -27,5 +27,6 @@
 <p>I do not have any job experience at the moment, as I am focusing on schoolwork and education first I may get a summer job or work for some money when I have free time.</p>
 <hr/>
 <h3 align='center'>Technical Skills</h3>
-<a href="https://help.apple.com/assets/64FFB258AE78C91D760CB66A/64FFB25D3DC7043983057480/en_US/97f5f4dfe6df84d78caacff68ec63538.png">Final Cut Pro</a>
+<a href="https://help.apple.com/assets/64FFB258AE78C91D760CB66A/64FFB25D3DC7043983057480/en_US/97f5f4dfe6df84d78caacff68ec63538.png">Final Cut Pro</a> <br/>
 <a href="https://help.apple.com/assets/64FFB258AE78C91D760CB66A/64FFB25D3DC7043983057480/en_US/97f5f4dfe6df84d78caacff68ec63538.png">CapCut</a>
+<hr/>
